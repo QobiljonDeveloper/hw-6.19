@@ -33,7 +33,6 @@ const Register = () => {
         <p className="text-center text-sm text-gray-500 mb-4 border-b pb-4">
           Это быстро и просто.
         </p>
-
         <form onSubmit={handleSubmit} className="space-y-3">
           <div className="flex gap-2">
             <input
